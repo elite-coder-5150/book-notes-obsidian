@@ -1,0 +1,1 @@
+I've been studying all day and i havent written much code today, and now its time to eat and i can't write documentation when i'm eating.

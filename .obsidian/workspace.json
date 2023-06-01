@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "cd2f715dd56fcd5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe999ba70ea20bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919855415eade5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-notes/Best practices for create angular components for social network outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a81ca31f785fc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-notes/Creating angular components key points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4103bef98aacf9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-notes/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d8a748f90bc1955",
+    "type": "split",
+    "children": [
+      {
+        "id": "86822ebe5d54f2ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6ab114beb4992b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3163dd4876f68ee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#solid-primciple",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91442539ee4478b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1e28688cdd810e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 579.5
+  },
+  "right": {
+    "id": "e9a4c156c2eeac96",
+    "type": "split",
+    "children": [
+      {
+        "id": "51dad31c757f99cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0662036ff3be9ec4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book-notes/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e06b6ea88a7d2ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book-notes/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c85f42877b6f8dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bc0b3fb830a4562",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book-notes/Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4103bef98aacf9c",
+  "lastOpenFiles": [
+    "book-notes/creating angular components rough draft.md",
+    "creating angular components rough draft.md",
+    "book-notes/Creating angular components key points.md",
+    "book-notes/Untitled 2.md",
+    "book-notes/Best practices for create angular components for social network outline.md",
+    "book-notes/notification component.md",
+    "book-notes/best practices when creating component in angular outline.md",
+    "book-notes/creating angular components.md",
+    "book-notes/Status update component.md",
+    "book-notes/Video component.md",
+    "book-notes/Social network abstractions.md",
+    "book-notes/Untitled 1.md",
+    "fantacy books/book one/Chapter 1.md",
+    "fantacy books/book one",
+    "fantacy books",
+    "book-notes/The solid principle.md",
+    "book-notes/componets that need more than 400 lines of code.md",
+    "book-notes/Angular coding style guide.md",
+    "book-notes/Building a graph for a social media app outline.md",
+    "book-notes/Can I use obsidian to write articles for medium.md",
+    "book-notes/Medium Blogging Tools.md",
+    "book-notes/Sub navigation for a menu item.md",
+    "book-notes/errors.md",
+    "building a graph for a social network in typescript.md",
+    "logseq/bak/building a graph for a social network in typescript/2023-05-28T02_43_48.677Z.Desktop.md",
+    "logseq/bak/building a graph for a social network in typescript/2023-05-28T02_42_13.762Z.Desktop.md",
+    "logseq/bak/building a graph for a social network in typescript/2023-05-28T02_40_13.211Z.Desktop.md",
+    "logseq/bak/building a graph for a social network in typescript/2023-05-28T02_38_44.591Z.Desktop.md",
+    "logseq/bak/building a graph for a social network in typescript",
+    "logseq/bak",
+    "logseq/custom.css",
+    "pages",
+    "journals",
+    "logseq/config.edn",
+    "logseq",
+    "book-notes"
+  ]
+}

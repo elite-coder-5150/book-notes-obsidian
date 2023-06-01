@@ -1,0 +1,8 @@
+- originally an easy way to write for the web.
+- easily converts to html
+- how there are many falvors of markdown
+	- commonMark
+	- Github flavored
+	- multimarkdonw
+	- etc..
+	- 
